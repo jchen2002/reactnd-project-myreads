@@ -1,6 +1,6 @@
 # MyReads Project
 
-The bookreads project is the first project for Udacity's React Fundamentals course. The project allows ussers to search books, place the books in three shelfs, move books in between different shelfs, or remove the books from the shelfs. The project connects to Udaity backend data source to update the books and shelfs you save.
+The MyReads project is the first project for Udacity's React Fundamentals course. The project allows ussers to search books, place the books in three shelfs, move books in between different shelfs, or remove the books from the shelfs. The project connects to Udaity backend data source to update the books and shelfs you save.
 
 ## steps to set up and run MyBookRead project
 
